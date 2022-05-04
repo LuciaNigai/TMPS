@@ -1,0 +1,45 @@
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\Lucia\Documents\2semester3year\TMPS\Creational patterns\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
